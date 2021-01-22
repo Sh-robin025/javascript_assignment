@@ -50,5 +50,5 @@ for ( i = 0; i < friends.length; i++){
         longestFriend = friends[i];
         }
     }
-    return longestFriend
+    return longestFriend;
 }
